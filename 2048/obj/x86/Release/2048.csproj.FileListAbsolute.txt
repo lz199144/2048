@@ -1,0 +1,10 @@
+C:\Users\lz\Desktop\2048\2048\bin\Release\2048.exe
+C:\Users\lz\Desktop\2048\2048\bin\Release\2048.pdb
+C:\Users\lz\Desktop\2048\2048\obj\x86\Release\2048.csprojResolveAssemblyReference.cache
+C:\Users\lz\Desktop\2048\2048\obj\x86\Release\_2048._2048messageBox.resources
+C:\Users\lz\Desktop\2048\2048\obj\x86\Release\_2048.Form1.resources
+C:\Users\lz\Desktop\2048\2048\obj\x86\Release\_2048.Game_Over.resources
+C:\Users\lz\Desktop\2048\2048\obj\x86\Release\_2048.Properties.Resources.resources
+C:\Users\lz\Desktop\2048\2048\obj\x86\Release\2048.csproj.GenerateResource.Cache
+C:\Users\lz\Desktop\2048\2048\obj\x86\Release\2048.exe
+C:\Users\lz\Desktop\2048\2048\obj\x86\Release\2048.pdb
